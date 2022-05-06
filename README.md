@@ -1,11 +1,11 @@
 # K-means Clustering Analysis
 
-1.Process of K-means Clustering
+## 1.Process of K-means Clustering
 
--Data Preprocessing & Run K-means
+- Data Preprocessing & Run K-means
 
--Pick Out Top K Iconic Interests with Higher Variance
+- Pick Out Top K Iconic Interests with Higher Variance
 
--Identify Iconic Interests to Portray Persona
+- Identify Iconic Interests to Portray Persona
 
 
