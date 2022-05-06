@@ -1,6 +1,6 @@
 # K-means Clustering Analysis
 
-Process of K-means Clustering
+1.Process of K-means Clustering
 
 -Data Preprocessing & Run K-means
 
