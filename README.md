@@ -2,7 +2,6 @@
 
 ## 1.Process of K-means Clustering
 Data Preprocessing & Run K-means
-- Data Preprocessing & Run K-means
 - Pick Out Top K Iconic Interests with Higher Variance
 - Identify Iconic Interests to Portray Persona
 
@@ -12,6 +11,6 @@ Pick Out Top K Iconic Interests with Higher Variance
 - Persona of clusters
 
 ## 3.Marketing Application & Suggestion
-Identify 
+Identify Iconic interests to Portray Persona
 - Group K/I to apply in CRM
 - Cooperation with different partners
